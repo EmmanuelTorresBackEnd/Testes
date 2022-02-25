@@ -9,7 +9,7 @@ namespace TestTesteMSTEST
         [TestMethod]
         public void SomarDoisNumeros()
         {
-            //arrenge - Organizar
+            //arrange - Organizar
             double pNum = 1;
             double sNum = 1;
 
