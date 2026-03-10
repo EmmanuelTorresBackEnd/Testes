@@ -1,5 +1,5 @@
 📌 Descrição
-Este projeto demonstra como estruturar e executar testes automatizados em aplicações .NET, explorando dois frameworks populares:
+- Este projeto demonstra como estruturar e executar testes automatizados em aplicações .NET, explorando dois frameworks populares:
 - MSTest (framework oficial da Microsoft)
 - xUnit (framework moderno e flexível, amplamente usado pela comunidade)
 
